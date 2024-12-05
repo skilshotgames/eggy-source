@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/egg-cracking-6844.mp3-bb783044412e52ff973a6f3ecb054663.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/egg-cracking-6844.mp3"
+dest_files=[ "res://.import/egg-cracking-6844.mp3-bb783044412e52ff973a6f3ecb054663.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

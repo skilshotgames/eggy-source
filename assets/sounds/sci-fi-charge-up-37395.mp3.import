@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sci-fi-charge-up-37395.mp3-0875eed86acf8aa83466c6cf6ad26aff.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/sci-fi-charge-up-37395.mp3"
+dest_files=[ "res://.import/sci-fi-charge-up-37395.mp3-0875eed86acf8aa83466c6cf6ad26aff.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
